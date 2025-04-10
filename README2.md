@@ -9,22 +9,21 @@ Merging and pull requesst
 
 _Navigate to github repository and switch to update navigation branches_
 
-![Github account](./img/10.%20navi.jpg)
+![switch](./img/10.%20navi.jpg)
 
 -----
->## **Github repository**
-_repository named and descrption inputed_
-![repository](./img/2.%20gc.jpg)
+>## **pull request**
+_pull request created and change happen in update-avigation branch_
+![pull request](./img/11.%20pull.jpg)
 
 
->## **Clone repository**
-_clone remote repository from github account into git local repository_
-![clone repository](./img/3.gc.jpg)
+>## **Pull request merge**
+_the request was commented and merged_
+![merge pr](./img/12.%20pr%20pulled.jpg)
 
->## **Git Workflow**
+>## **step to update jerry branch**
 _Create an empty file, add content, and add it to git_
 ![`git add index.html`](./img/4.%20gc.jpg)
-![`git add index.html`](./img/6.%20index.jpg)
 
 
 >##  **Commit Changes and push**
