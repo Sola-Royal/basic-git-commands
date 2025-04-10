@@ -1,15 +1,15 @@
 ># **basic-git-commands**
 
-The basic Git commands project
+Merging and pull requesst
 
->**the project is about Git setup and implementation of these commands like `git checkout -b`, `git add`, `git commit`, `git push`, and `git merge` are executed directly in the terminal with efective hands on project**
+>**the project is about Git and github `merging` and `Pull Request` with efective hands on project**
 
 ----
->## **Part 1: Setup amd Initial configuration**
+>## **Part 3: MERGING CHANGES**
 
-_Git installled, github acount signed up, created github account and github repository created_
+_Navigate to github repository and switch to update navigation branches_
 
-![Github account](./img/1.%20gc.jpg)
+![Github account](./img/10.%20navi.jpg)
 
 -----
 >## **Github repository**
